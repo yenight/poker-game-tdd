@@ -1,0 +1,125 @@
+1. 单个卡片比较
+player1: 3S 
+player2: 7D
+
+player2 win
+
+2. 单个卡片比较，两个卡片数字相同
+player: 2S
+player: 2D
+
+Draw
+
+3. 五张卡片进行普通比较
+player1: 3S 4D JH 6S 9S
+player2: 6S 3C TC 9C 5C
+
+player1 win
+
+4. 五张卡片比较，最大卡片数字相同 
+player1: 3S 4D TH 6S 9S
+player2: 6S 3C TC 9C 5C
+
+player2 win
+
+5. 五张卡片比较，数字全部相同
+player1: 3S 4D TH 5S 9S
+player2: 3H 4C TC 9C 5C
+
+draw
+
+6. 对子比单张
+player1: AS AD 3H 6S 9S
+player2: 2S 6C TC 9C 5C
+
+player1 win
+
+7. 对子比对子
+player1: 3S 3D 4H 6S 9S
+player2: 4S 4C TC 9C 5C
+
+player2 win
+
+8. 对子比对子，两个对子相同
+player1: 3S 3D 4H 6S 9S
+player2: 3H 3C TC 9C 5C
+
+player2 win
+
+9. 两个对子比一个对子
+player1: 6S 6D 3H 3S 9S
+player2: 8S 8C TC 9C 5C
+
+player1 win
+
+10. 三张比对子
+player1: 6S 6D 3H 4S 9S
+player2: 8S 8C TC 9C 8H
+
+player2 win
+
+11. 三张比三张
+player1: 6S 9D 9H 4S 9S
+player2: 8S 8C TC 9C 8H
+
+player1 win
+
+12. 三张比五连
+player1: 6S 9D 9H 4S 9S
+player2: 3S 4C 5C 6C 7H
+
+player2 win
+
+13. 五连比五连
+player1: 4S 5D 6H 7S 8S
+player2: 3S 4C 5C 6C 7H
+
+player1 win
+
+14. 五连比同花色
+player1: 4S 5D 6H 7S 8S
+player2: 3C 5C 7C 9C TC
+
+player2 win
+
+15. 同花色比同花色
+player1: 8S 2S 3S KS 5S
+player2: 3C 5C 7C 9C TC
+
+player1 win
+
+16. 四带一比三带二
+player1: 8S 8H 8C 5C 5S
+player2: 3C 3D 3H 3S TC
+
+player2 win
+
+16. 三带二比三带二
+player1: 8S 8H 8C KS KS
+player2: 3C 3D 3H TS TC
+
+player1 win
+
+16. 同花色比四带一
+player1: 8S 2S 3S KS 5S
+player2: 3C 3D 3H 3S TC
+
+player2 win
+
+17. 四带一比四带一
+player1: 4S 4C 4D 4H 5S
+player2: 3C 3D 3H 3S TC
+
+player1 win
+
+18. 四带一比同花顺
+player1: 4S 4C 4D 4H 5S
+player2: 5C 6C 7C 8C 9C
+
+player2 win
+
+19. 同花顺比同花顺
+player1: 6S 7S 8S 9S TS
+player2: 5C 6C 7C 8C 9C
+
+player1 win
